@@ -23,6 +23,11 @@ Sample Output:
 | 2017    | Tyler Chatwood | Cubs     | P        | $38,000,000   | 3                | 1.55    | 30.00     | 152.60    | 6.98  | 4.34  | 0.28 
 
 
+
+- avg_war: 3-year-average war.
+
+- avg_games: 3-year-average games played.
+
 - avg_pa/ip: 3-year-average plate appearances (for position players) or innings pitched (for pitchers) in seasons preceding free agency.
 
 - avg_k: 3-year-average strikeout rate (offensive, for position players) or strikeout rate (defensive, for pitchers) in seasons preceding free agency.
