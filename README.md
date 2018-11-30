@@ -2,6 +2,12 @@
 
 Python script for webscraping MLB free agent data from ESPN and Fangraphs. Uses the BeautifulSoup package.
 
+ESPN Free agent list, by year:
+http://www.espn.com/mlb/freeagents
+
+The general player and contract information is from ESPN and the player statistics are from Fangraphs.
+
+Sample Output:
 
 | FA_year | name           | team     | position | contractValue | contractDuration | avg_war | avg_games | avg_pa/ip | avg_k | avg_b | avg_babip | OPS/FIP | age   | BirthPlace                        | experience | college           |
 |---------|----------------|----------|----------|---------------|------------------|---------|-----------|-----------|-------|-------|-----------|---------|-------|-----------------------------------|------------|-------------------|
@@ -14,6 +20,4 @@ Python script for webscraping MLB free agent data from ESPN and Fangraphs. Uses 
 | 2017    | Alex Cobb      | Orioles  | P        | $57,000,000   | 4                | 1.10    | 17.00     | 100.55    | 6.48  | 2.54  | 0.32      | 4.88    | 30.00 | Boston, MA                        | 5          | None              |
 | 2017    | Wade Davis     | Rockies  | P        | $52,000,000   | 3                | 1.47    | 57.67     | 56.13     | 10.77 | 3.43  | 0.25      | 2.65    | 32.00 | Lake Wales, FL                    | 8          | None              |
 | 2017    | Jay Bruce      | Mets     | OF       | $39,000,000   | 3                | 1.03    | 150.00    | 618.33    | 22.12 | 8.82  | 0.27      | 0.79    | 30.00 | Beaumont, TX                      | 9          | None              |
-| 2017    | Tyler Chatwood | Cubs     | P        | $38,000,000   | 3                | 1.55    | 30.00     | 152.60    | 6.98  | 4.34  | 0.28      | 4.63    | 27.00 | Redlands, CA                      | 5          | None              |
-| 2017    | Zack Cozart    | Angels   | 3B       | $38,000,000   | 3                | 9999.00 | 0.00      | 0.00      | 0.00  | 0.00  | 0.00      | 0.00    | 32.00 | Memphis, TN                       | 6          | Ole Miss          |
-| 2017    | Mike Minor     | Rangers  | P        | $28,000,000   | 3                | 2.20    | 65.00     | 77.20     | 10.20 | 2.55  | 0.27      | 2.62    | 29.00 | Chapel Hill, TN                   | 5          | Vanderbilt        |
+| 2017    | Tyler Chatwood | Cubs     | P        | $38,000,000   | 3                | 1.55    | 30.00     | 152.60    | 6.98  | 4.34  | 0.28 
