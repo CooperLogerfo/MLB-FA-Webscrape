@@ -21,3 +21,9 @@ Sample Output:
 | 2017    | Wade Davis     | Rockies  | P        | $52,000,000   | 3                | 1.47    | 57.67     | 56.13     | 10.77 | 3.43  | 0.25      | 2.65    | 32.00 | Lake Wales, FL                    | 8          | None              |
 | 2017    | Jay Bruce      | Mets     | OF       | $39,000,000   | 3                | 1.03    | 150.00    | 618.33    | 22.12 | 8.82  | 0.27      | 0.79    | 30.00 | Beaumont, TX                      | 9          | None              |
 | 2017    | Tyler Chatwood | Cubs     | P        | $38,000,000   | 3                | 1.55    | 30.00     | 152.60    | 6.98  | 4.34  | 0.28 
+
+
+- avg_pa/ip: 3-year-average plate appearances (for position players) or innings pitched (for pitchers) in seasons preceding free agency.
+- avg_k: 3-year-average strikeout rate (offensive, for position players) or strikeout rate (defensive, for pitchers) in seasons preceding free agency.
+- avg_babip: 3-year-average batting average on balls in play (offensive, for position players) or batting average on balls in play *against* (for pitchers) in seasons preceding free agency.
+- OPS/FIP: 3-year-average OPS (for position players) or FIP (for pitchers) in seasons preceding free agency.
