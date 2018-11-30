@@ -24,6 +24,11 @@ Sample Output:
 
 
 - avg_pa/ip: 3-year-average plate appearances (for position players) or innings pitched (for pitchers) in seasons preceding free agency.
+
 - avg_k: 3-year-average strikeout rate (offensive, for position players) or strikeout rate (defensive, for pitchers) in seasons preceding free agency.
+
+- avg_b: 3-year-average walk rate (offensive, for position players) or walk rate (defensive, for pitchers) in seasons preceding free agency.
+
 - avg_babip: 3-year-average batting average on balls in play (offensive, for position players) or batting average on balls in play *against* (for pitchers) in seasons preceding free agency.
+
 - OPS/FIP: 3-year-average OPS (for position players) or FIP (for pitchers) in seasons preceding free agency.
