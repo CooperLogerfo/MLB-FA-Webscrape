@@ -1,0 +1,96 @@
+FA_year,name,team,position,contractValue,contractDuration,avg_war,avg_games,avg_pa/ip,avg_k,avg_b,avg_babip,OPS/FIP,age,BirthPlace,experience,college
+2017,Eric Hosmer,Padres,1B,"$144,000,000",8,2.6,159.3,668.3,17.2,9.1,0.3,0.8,28,"South Miami, FL",6,None
+2017,Yu Darvish,Cubs,P,"$126,000,000",6,3.2,24.0,143.2,10.9,2.7,0.3,3.5,31,"Osaka, Japan",4,None
+2017,J.D. Martinez,Red Sox,OF,"$110,000,000",5,3.7,132.3,554.3,26.0,9.9,0.3,1.0,30,"Miami, FL",6,Nova Southeastern
+2017,Lorenzo Cain,Brewers,OF,"$80,000,000",5,4.2,132.7,561.0,17.0,7.2,0.3,0.8,31,"Valdosta, GA",7,Tallahassee CC FL
+2017,Jake Arrieta,Phillies,P,"$75,000,000",3,4.5,31.3,198.1,8.9,2.8,0.3,3.3,31,"Farmington, MO",7,TCU
+2017,Carlos Santana,Phillies,1B,"$60,000,000",3,2.8,155.3,673.7,15.6,14.6,0.3,0.8,31,"Santo Domingo, Dominican Republic",7,None
+2017,Alex Cobb,Orioles,P,"$57,000,000",4,1.1,17.0,100.5,6.5,2.5,0.3,4.9,30,"Boston, MA",4,None
+2017,Wade Davis,Rockies,P,"$52,000,000",3,1.5,57.7,56.1,10.8,3.4,0.3,2.7,32,"Lake Wales, FL",8,None
+2017,Jay Bruce,Mets,OF,"$39,000,000",3,1.0,150.0,618.3,22.1,8.8,0.3,0.8,30,"Beaumont, TX",9,None
+2017,Tyler Chatwood,Cubs,P,"$38,000,000",3,1.6,30.0,152.6,7.0,4.3,0.3,4.6,27,"Redlands, CA",5,None
+2017,Zack Cozart,Angels,3B,"$38,000,000",3,9999.0,0.0,0.0,0.0,0.0,0.0,0.0,32,"Memphis, TN",6,Ole Miss
+2017,Mike Minor,Rangers,P,"$28,000,000",3,2.2,65.0,77.2,10.2,2.5,0.3,2.6,29,"Chapel Hill, TN",5,Vanderbilt
+2017,Jake McGee,Rockies,P,"$27,000,000",3,0.8,52.7,46.5,9.4,2.5,0.3,3.5,31,"San Jose, CA",7,None
+2017,Bryan Shaw,Rockies,P,"$27,000,000",3,0.7,76.0,68.8,8.5,3.0,0.3,3.6,30,"Livermore, CA",6,Long Beach State
+2017,Brandon Morrow,Cubs,P,"$21,000,000",2,0.7,22.7,30.7,7.0,1.8,0.3,3.1,33,"Santa Rosa, CA",10,California
+2017,Tommy Hunter,Phillies,P,"$18,000,000",2,0.7,50.7,50.3,7.3,2.1,0.3,3.5,31,"Arlington, TX",9,Alabama
+2017,Todd Frazier,Mets,3B,"$17,000,000",2,3.4,154.0,640.0,22.1,11.2,0.2,0.8,31,"Toms River, NJ",6,Rutgers
+2017,Juan Nicasio,Mariners,P,"$17,000,000",2,1.3,60.3,82.7,9.1,2.5,0.2,2.8,31,"San Francisco de Macoris, Dominican Republic",6,None
+2017,Addison Reed,Twins,P,"$16,750,000",2,1.4,70.7,69.5,9.2,2.3,0.3,3.1,28,"Montclair, CA",6,San Diego State
+2017,Pat Neshek,Phillies,P,"$16,250,000",2,1.1,65.7,54.4,9.1,1.4,0.3,2.8,37,"Madison, WI",10,Butler
+2017,Yonder Alonso,Indians,1B,"$16,000,000",2,1.1,133.7,485.0,17.4,11.1,0.3,0.8,30,"Havana, Cuba",7,Miami
+2017,Andrew Cashner,Orioles,P,"$16,000,000",2,1.5,29.0,160.6,7.0,3.8,0.3,4.5,31,"Conroe, TX",7,TCU
+2017,Jason Vargas,Mets,P,"$16,000,000",2,0.8,14.7,78.1,6.9,2.6,0.3,4.0,34,"Apple Valley, CA",11,Long Beach State
+2017,Jhoulys Chacin,Brewers,P,"$15,500,000",2,1.4,23.7,116.5,7.7,3.3,0.3,4.2,29,"Maracaibo, Venezuela",8,None
+2017,Welington Castillo,White Sox,C,"$15,000,000",2,1.9,106.3,400.0,24.3,6.0,0.3,0.7,30,"San Isidro, Dominican Republic",7,None
+2017,Joe Smith,Astros,P,"$15,000,000",2,0.8,61.0,56.6,9.2,2.3,0.3,3.5,33,"Cincinnati, OH",10,Wright State
+2017,Anthony Swarzak,Mets,P,"$14,000,000",2,0.6,35.3,40.4,9.9,2.5,0.3,3.7,32,"Fort Lauderdale, FL",7,None
+2017,Steve Cishek,Cubs,P,"$13,000,000",2,0.5,56.7,54.4,8.5,3.5,0.3,3.7,31,"Falmouth, MA",7,Carson-Newman
+2017,Mitch Moreland,Red Sox,1B,"$13,000,000",2,1.0,142.7,531.3,22.0,7.7,0.3,0.8,32,"Amory, MS",7,Mississippi State
+2017,Lance Lynn,Twins,P,"$12,000,000",1,2.2,32.0,180.6,8.0,3.6,0.3,4.1,30,"Marion, IN",5,Ole Miss
+2017,Luke Gregerson,Cardinals,P,"$11,000,000",2,0.8,62.7,59.7,9.8,2.4,0.3,3.5,33,"Park Ridge, IL",8,St. Xavier (IL)
+2017,Jaime Garcia,Blue Jays,P,"$10,000,000",1,2.0,26.3,152.2,7.9,3.4,0.3,3.8,31,"Reynosa, Mexico",8,None
+2017,Brandon Kintzler,Nationals,P,"$10,000,000",2,0.5,44.3,44.1,6.1,2.9,0.3,4.1,33,"Las Vegas, NV",7,DIXIE ST
+2017,Yusmeiro Petit,Athletics,P,"$10,000,000",2,0.7,46.0,76.4,8.0,1.9,0.3,3.9,33,"Maracaibo, Venezuela",9,None
+2017,Michael Pineda,Twins,P,"$10,000,000",2,2.6,25.3,143.8,9.3,2.0,0.3,3.9,28,"Yaguate, Dominican Republic",4,None
+2017,CC Sabathia,Yankees,P,"$10,000,000",1,1.9,28.7,164.8,7.4,3.0,0.3,4.5,37,"Vallejo, CA",16,None
+2017,Drew Smyly,Cubs,P,"$10,000,000",2,1.4,21.0,120.7,9.5,2.6,0.3,4.2,28,"Little Rock, AR",4,Arkansas
+2017,Tony Watson,Giants,P,"$9,000,000",3,0.5,72.7,69.5,7.5,2.5,0.3,3.9,32,"Sioux City, IA",6,Nebraska
+2017,Chris Iannetta,Rockies,C,"$8,500,000",2,1.1,91.7,323.7,26.1,11.9,0.3,0.7,34,"Providence, RI",11,North Carolina
+2017,Hector Rondon,Astros,P,"$8,500,000",2,0.8,62.3,59.4,10.0,2.2,0.3,3.4,29,"Guatire, Venezuela",4,None
+2017,Alex Avila,Diamondbacks,C,"$8,250,000",2,1.3,78.7,268.0,33.4,17.4,0.3,0.7,30,"Hialeah, FL",8,Alabama
+2017,Carlos Gonzalez,Rockies,OF,"$8,000,000",1,1.8,146.3,591.3,21.5,8.5,0.3,0.8,32,"Maracaibo, Venezuela",9,None
+2017,Jarrod Dyson,Diamondbacks,OF,"$7,500,000",2,2.1,102.7,317.3,14.0,7.0,0.3,0.7,33,"Mccomb, MS",7,Southwest Mississippi CC
+2017,Brian Duensing,Cubs,P,"$7,000,000",2,0.1,45.7,41.1,6.7,2.8,0.3,4.2,34,"Marysville, KS",8,Nebraska
+2017,Howie Kendrick,Nationals,OF,"$7,000,000",2,9999.0,0.0,0.0,0.0,0.0,0.0,0.0,34,"Jacksonville, FL",11,St. John's River State CC
+2017,Jonathan Lucroy,Athletics,C,"$6,500,000",1,2.3,122.7,480.0,14.7,9.5,0.3,0.8,31,"Eustis, FL",7,Louisiana
+2017,Logan Morrison,Twins,1B,"$6,500,000",1,1.2,134.0,503.3,21.0,10.7,0.3,0.8,30,"Kansas City, MO",7,Maple Woods CC
+2017,Mike Moustakas,Royals,3B,"$6,500,000",1,2.2,107.3,441.7,13.2,6.9,0.3,0.8,29,"Los Angeles, CA",6,None
+2017,Mike Fiers,Tigers,P,"$6,000,000",1,1.4,30.3,167.1,8.4,3.0,0.3,4.5,32,"Hollywood, FL",6,Nova Southeastern
+2017,Austin Jackson,Giants,OF,"$6,000,000",2,1.2,91.7,349.3,21.8,7.6,0.3,0.7,30,"Denton, TX",7,None
+2017,Matt Albers,Brewers,P,"$5,000,000",2,0.1,50.3,49.7,7.1,2.7,0.3,4.2,34,"Houston, TX",11,San Jacinto Coll. TX (J.C.)
+2017,Curtis Granderson,Blue Jays,OF,"$5,000,000",1,3.5,151.3,614.0,22.6,13.0,0.2,0.8,36,"Blue Island, IL",14,UIC
+2017,David Hernandez,Reds,P,"$5,000,000",2,0.4,58.0,53.2,8.8,2.3,0.3,3.9,32,"Sacramento, CA",7,Cosumnes River  (CA)
+2017,Miguel Gonzalez,White Sox,P,"$4,750,000",1,99999.0,0.0,0.0,0.0,0.0,0.0,0.0,33,"Guadalajara, Mexico",5,Mission CC (CA)
+2017,Jared Hughes,Reds,P,"$4,500,000",2,0.1,70.0,61.8,5.7,3.2,0.3,4.1,32,"Stamford, CT",6,Long Beach State
+2017,Fernando Rodney,Twins,P,"$4,500,000",1,0.4,65.3,60.6,10.0,4.3,0.3,3.8,40,"Santa Barbara de Samana, Dominican Republic",14,None
+2017,Craig Stammen,Padres,P,"$4,500,000",2,0.1,32.5,42.0,7.5,4.9,0.2,4.1,33,"North Star, OH",7,Dayton
+2017,Matt Adams,Nationals,1B,"$4,000,000",1,0.5,103.0,293.3,25.4,6.7,0.3,0.8,29,"Philipsburg, PA",5,Slippery Rock
+2017,Doug Fister,Rangers,P,"$4,000,000",1,0.9,25.0,124.4,6.5,3.0,0.3,4.4,33,"Merced, CA",8,Fresno State
+2017,Carlos Gomez,Rays,OF,"$4,000,000",1,1.3,112.7,452.0,26.0,7.2,0.3,0.7,32,"Santiago, Dominican Republic",10,None
+2017,Francisco Liriano,Tigers,P,"$4,000,000",1,1.6,33.3,148.3,8.7,4.5,0.3,4.3,34,"San Cristobal, Dominican Republic",11,None
+2017,Eduardo Nunez,Red Sox,3B,"$4,000,000",1,2.0,109.0,430.0,13.5,4.8,0.3,0.8,30,"Santo Domingo, Dominican Republic",7,None
+2017,Neil Walker,Yankees,2B,"$4,000,000",1,2.8,125.0,503.0,18.1,11.1,0.3,0.8,32,"Pittsburgh, PA",8,None
+2017,Lucas Duda,Royals,1B,"$3,500,000",1,1.5,103.0,405.7,25.5,11.2,0.2,0.8,31,"Riverside, CA",7,USC
+2017,Cameron Maybin,Marlins,OF,"$3,250,000",1,1.6,116.3,465.3,20.4,8.6,0.3,0.7,30,"Asheville, NC",10,None
+2017,Bud Norris,Cardinals,P,"$3,000,000",1,0.5,44.3,85.5,9.1,3.7,0.3,4.2,32,"Greenbrae, CA",8,Cal Poly
+2017,Chris Tillman,Orioles,P,"$3,000,000",1,1.1,28.3,146.0,6.6,3.9,0.3,5.2,29,"Fountain Valley, CA",8,None
+2017,Rene Rivera,Angels,C,"$2,800,000",1,0.2,83.0,254.3,28.5,6.5,0.3,0.7,34,"Bayamon, Puerto Rico",8,None
+2017,Seunghwan Oh,Rangers,P,"$2,750,000",1,99999.0,0.0,0.0,0.0,0.0,0.0,0.0,35,"Jeon-Ju, South Korea",1,None
+2017,Alcides Escobar,Royals,SS,"$2,500,000",1,0.7,157.3,657.7,13.9,3.4,0.3,0.6,30,"Guayana, Venezuela",9,None
+2017,Nick Hundley,Giants,C,"$2,500,000",1,1.1,95.7,336.3,22.2,5.8,0.3,0.8,34,"Corvallis, OR",9,Arizona
+2017,Boone Logan,Brewers,P,"$2,500,000",1,0.5,54.7,34.1,11.4,4.0,0.3,3.3,33,"San Antonio, TX",11,None
+2017,Sergio Romo,Rays,P,"$2,500,000",1,0.8,55.0,47.5,10.1,2.5,0.3,3.6,34,"Brawley, CA",9,Mesa State
+2017,Anibal Sanchez,Twins,P,"$2,500,000",1,0.7,29.3,138.4,8.2,2.8,0.3,5.0,33,"Maracay, Venezuela",11,None
+2017,Zach Duke,Twins,P,"$2,150,000",1,0.2,59.7,46.2,8.9,4.1,0.3,3.9,34,"Clifton, TX",12,None
+2017,Yovani Gallardo,Brewers,P,"$2,000,000",1,1.0,28.0,144.1,6.3,4.0,0.3,4.9,31,"Michoacan, Mexico",10,None
+2017,Tom Koehler,Dodgers,P,"$2,000,000",1,0.4,30.7,145.2,7.7,4.0,0.3,4.8,31,"Bronx, NY",5,Stony Brook
+2017,Jose Reyes,Mets,SS,"$2,000,000",1,1.4,107.0,453.0,13.8,6.7,0.3,0.7,34,"Villa Gonzalez, Dominican Republic",14,None
+2017,Chase Utley,Dodgers,2B,"$2,000,000",2,1.1,124.0,447.0,17.4,7.8,0.3,0.7,38,"Pasadena, CA",14,UCLA
+2017,Chris Young,Angels,OF,"$2,000,000",1,0.5,102.0,286.3,20.8,9.5,0.3,0.8,34,"Houston, TX",11,None
+2017,Leonys Martin,Tigers,OF,"$1,750,000",1,0.9,95.7,341.3,24.2,8.9,0.3,0.6,29,"Villa Clara, Cuba",6,None
+2017,Wily Peralta,Royals,P,"$1,525,000",1,0.4,20.7,97.5,6.6,3.7,0.3,5.0,28,"Santa Barbara de Samana, Dominican Republic",6,None
+2017,Tony Barnette,Rangers,P,"$1,500,000",1,0.7,51.5,58.6,8.1,2.9,0.3,3.7,34,"Anchorage, AK",1,Arizona State
+2017,Jesse Chavez,Rangers,P,"$1,500,000",1,0.9,43.3,120.4,8.0,2.7,0.3,4.4,34,"San Gabriel, CA",10,Riverside CC
+2017,Michael Saunders,Royals,OF,Minor Lg,1,0.3,74.0,276.0,24.9,10.2,0.3,0.6,31,"Victoria, BC",8,None
+2017,Peter Bourjos,Cubs,OF,"$1,450,000",1,0.1,113.3,270.3,25.4,6.2,0.3,0.7,30,"Park Ridge, IL",7,None
+2017,Erick Aybar,Twins,SS,"$1,250,000",1,-0.1,130.0,489.0,13.7,7.2,0.3,0.6,33,"Bani, Dominican Republic",11,None
+2017,Trevor Cahill,Athletics,P,"$1,250,000",1,0.1,32.3,64.1,8.4,4.6,0.3,5.1,29,"Oceanside, CA",8,None
+2017,Joaquin Benoit,Nationals,P,"$1,000,000",1,0.3,56.7,54.2,8.1,4.4,0.3,4.7,40,"Santiago, Dominican Republic",15,None
+2017,Jordan Lyles,Padres,P,"$1,000,000",1,0.3,29.3,58.8,6.3,3.5,0.3,4.9,27,"Hartsville, SC",6,None
+2017,Craig Gentry,Orioles,OF,Minor Lg,1,-0.3,39.0,70.7,20.9,8.1,0.2,0.5,34,"Fort Smith, AR",8,Arkansas
+2017,T.J. McFarland,Diamondbacks,P,"$850,000",1,-0.1,29.7,39.4,4.4,3.5,0.3,4.7,28,"Palos Hills, IL",4,None
+2017,Fernando Abad,Phillies,P,Minor Lg,,-0.0,55.7,45.5,8.1,4.0,0.3,4.5,31,"La Romana, Dominican Republic",7,None
+2017,Cristhian Adames,Marlins,SS,Minor Lg,,-0.5,53.0,109.3,26.8,7.2,0.2,0.4,26,"Santo Domingo, Dominican Republic",3,None
+2017,Hanser Alberto,Rangers,SS,Minor Lg,,-0.5,53.0,109.3,26.8,7.2,0.2,0.4,25,"San Francisco de Macoris, Dominican Republic",1,None
