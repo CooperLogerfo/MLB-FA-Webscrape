@@ -7,7 +7,24 @@ http://www.espn.com/mlb/freeagents
 
 The general player and contract information is from ESPN and the player statistics are from Fangraphs.
 
-Sample Output:
+### Data Description
+
+- avg_war: 3-year-average war.
+
+- avg_games: 3-year-average games played.
+
+- avg_pa/ip: 3-year-average plate appearances (for position players) or innings pitched (for pitchers) in seasons preceding free agency.
+
+- avg_k: 3-year-average strikeout rate (offensive, for position players) or strikeout rate (defensive, for pitchers) in seasons preceding free agency.
+
+- avg_b: 3-year-average walk rate (offensive, for position players) or walk rate (defensive, for pitchers) in seasons preceding free agency.
+
+- avg_babip: 3-year-average batting average on balls in play (offensive, for position players) or batting average on balls in play *against* (for pitchers) in seasons preceding free agency.
+
+- OPS/FIP: 3-year-average OPS (for position players) or FIP (for pitchers) in seasons preceding free agency.
+
+
+### Sample Output
 
 | FA_year | name           | team     | position | contractValue | contractDuration | avg_war | avg_games | avg_pa/ip | avg_k | avg_b | avg_babip | OPS/FIP | age   | BirthPlace                        | experience | college           |
 |---------|----------------|----------|----------|---------------|------------------|---------|-----------|-----------|-------|-------|-----------|---------|-------|-----------------------------------|------------|-------------------|
@@ -23,17 +40,3 @@ Sample Output:
 | 2017    | Tyler Chatwood | Cubs     | P        | $38,000,000   | 3                | 1.55    | 30.00     | 152.60    | 6.98  | 4.34  | 0.28 
 
 
-
-- avg_war: 3-year-average war.
-
-- avg_games: 3-year-average games played.
-
-- avg_pa/ip: 3-year-average plate appearances (for position players) or innings pitched (for pitchers) in seasons preceding free agency.
-
-- avg_k: 3-year-average strikeout rate (offensive, for position players) or strikeout rate (defensive, for pitchers) in seasons preceding free agency.
-
-- avg_b: 3-year-average walk rate (offensive, for position players) or walk rate (defensive, for pitchers) in seasons preceding free agency.
-
-- avg_babip: 3-year-average batting average on balls in play (offensive, for position players) or batting average on balls in play *against* (for pitchers) in seasons preceding free agency.
-
-- OPS/FIP: 3-year-average OPS (for position players) or FIP (for pitchers) in seasons preceding free agency.
